@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\Documents\\GitHub\\Atbash-solver\\Atbash-solver\\Atbash-solver.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\Documents\\GitHub\\Abtash-solver\\Atbash-solver\\Atbash-solver.csproj",
       "projectName": "Atbash-solver",
-      "projectPath": "C:\\Users\\olive\\Documents\\GitHub\\Atbash-solver\\Atbash-solver\\Atbash-solver.csproj",
+      "projectPath": "C:\\Users\\olive\\Documents\\GitHub\\Abtash-solver\\Atbash-solver\\Atbash-solver.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\Documents\\GitHub\\Atbash-solver\\Atbash-solver\\obj\\",
+      "outputPath": "C:\\Users\\olive\\Documents\\GitHub\\Abtash-solver\\Atbash-solver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

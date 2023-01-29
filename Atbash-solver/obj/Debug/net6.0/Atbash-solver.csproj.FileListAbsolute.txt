@@ -1,0 +1,15 @@
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.AssemblyInfo.cs
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\bin\Debug\net6.0\Atbash-solver.exe
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\bin\Debug\net6.0\Atbash-solver.deps.json
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\bin\Debug\net6.0\Atbash-solver.runtimeconfig.json
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\bin\Debug\net6.0\Atbash-solver.dll
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\bin\Debug\net6.0\Atbash-solver.pdb
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.dll
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\refint\Atbash-solver.dll
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.pdb
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\Atbash-solver.genruntimeconfig.cache
+C:\Users\olive\Documents\GitHub\Abtash-solver\Atbash-solver\obj\Debug\net6.0\ref\Atbash-solver.dll
